@@ -1,28 +1,66 @@
 {
-    "bg": "https://cinesiageek.com.br/wp-content/uploads/2017/06/Harry-Potter-Wallpapers-Archives-Page-2-of-4-Wallpaper.jpg",
+    "bg": "https://ps-now.de/upload/images/2020/09/17/12217067155f63102fbb5192-93353338.jpg",
     "title": "Quiz CSS da Alura",
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "questions": [
         {
-            "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-            "title": "Como fazer um seletor por id via CSS?",
-            "description": "Essa é pra aquecer",
+            "image": "https://ogimg.infoglobo.com.br/in/3145755-25e-a0e/FT1086A/652/Wizarding-World-of-Harry-Potter-na-Universal-nova-area-tematica-sera-inagurada-em-2010-no-complexo-UniversalFoto-Divulgacao.jpg",
+            "title": "Qual o nome da loja de doces em Hogsmeade?",
+            "description": "Começando com uma fácil",
             "answer": 2,
             "alternatives": [
-                ".elemento",
-                "*elemento",
-                "#elemento",
-                "%elemento"
+                "Pão de Mel",
+                "Doces de Mel",
+                "Dedos de mel",
+                "Mão de Mel"
             ]
         },
         {
-            "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-            "title": "Como fazer um background gradiente com css?",
-            "description": "Faz tempo em haha",
+            "image": "https://4.bp.blogspot.com/-SjCharDgDEk/WIwqC_k1hWI/AAAAAAABWsk/ztQ2ihwbebskLDGhuV5n_2vIMew0xu3xACLcB/w1200-h630-p-k-no-nu/HarryPotter_Olivaras-HP1.jpg",
+            "title": "Qual é o núcleo da varinha do Harry?",
+            "description": "Essa vai para os atentos",
             "answer": 0,
             "alternatives": [
-                "background: linear-gradient(#e66465, #9198e5);",
-                "background: gradient(#e66465, #9198e5);"
+                "Pena de fênix",
+                "Pelo de unicórnio",
+                "Cabelo de veela",
+                "pelo da cauda do testrálio"
+            ]
+        },
+
+        {
+            "image": "https://4.bp.blogspot.com/-uR5GyeOU4NQ/WFGKtf1eVqI/AAAAAAAAMYQ/y9SBB-tTnp8XDIm9dYb9jx9JD4YGkmKWwCLcB/s1600/Lunaimg01.jpg",
+            "title": "Qual o nome do pai da Luna Lovegood?",
+            "description": "E ai? sabe? hehe",
+            "answer": 3,
+            "alternatives": [
+                "Olívio Wood",
+                "Rufo Scrimgeour",
+                "Antônio Dolohov",
+                "Xenofílio Lovegood"
+            ]
+        },
+        {
+            "image": "https://cdn.potterish.com/wp-content/2018/01/09180908/Mat%C3%A9rias_Hogwarts.png",
+            "title": "Qual era a melhor matéria de Alvo Dubledore na sua época em Hogwarts?",
+            "description": "Tá em dúvida é?",
+            "answer": 0,
+            "alternatives": [
+                "Transfiguração",
+                "Defesas Contra as Artes das Trevas",
+                "Poções",
+                "Aritmancia"
+            ]
+        }, {
+            "image": "https://s2.glbimg.com/AlYKqPKawCwHGIcuU7cjuXd-TFI=/900x450/e.glbimg.com/og/ed/f/original/2016/02/01/mapa_das_escolas_de_magia_-_segundo_j_k_rowling.jpg",
+            "title": "Qual o nome da escola de magia e bruxaria da África?",
+            "description": "E ai...",
+            "answer": 1,
+            "alternatives": [
+                "CasteloBruxo",
+                "Uagadou",
+                "Mahoutokoro",
+                "Ilvermorny"
             ]
         }
     ],
@@ -31,8 +69,8 @@
     ],
     "theme": {
         "colors": {
-            "primary": "#0d47a1",  
-            "secondary": "#29b6f6",
+            "primary": "#6b63b5",  
+            "secondary": "#7F3FBF",
             "mainBg": "#171B35",
             "contrastText": "#FFFFFF",
             "wrong": "#FF5722",

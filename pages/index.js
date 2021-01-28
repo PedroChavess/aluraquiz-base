@@ -35,7 +35,7 @@ export default function Home() {
       <QuizContainer>https://cinesiageek.com.br/wp-content/uploads/2017/06/Harry-Potter-Wallpapers-Archives-Page-2-of-4-Wallpaper.jpg
         <Widget>
           <Widget.Header>
-            <h1> Harry Pottrer</h1>
+            <h1> Harry Potter</h1>
           </Widget.Header>
           <Widget.Content>
             <p>Draco Dormiens Nunquam Titillandus </p>
