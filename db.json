@@ -1,7 +1,7 @@
 {
     "bg": "https://ps-now.de/upload/images/2020/09/17/12217067155f63102fbb5192-93353338.jpg",
     "title": "Quiz CSS da Alura",
-    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "description": "Teste os seus conhecimentos sobre o Universo de Harry Potter",
     "questions": [
         {
             "image": "https://ogimg.infoglobo.com.br/in/3145755-25e-a0e/FT1086A/652/Wizarding-World-of-Harry-Potter-na-Universal-nova-area-tematica-sera-inagurada-em-2010-no-complexo-UniversalFoto-Divulgacao.jpg",
@@ -65,8 +65,10 @@
         }
     ],
     "external": [
-        ""
+        "https://aluraquiz-base.alura-challenges.vercel.app/",
+        "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
     ],
+
     "theme": {
         "colors": {
             "primary": "#6b63b5",  

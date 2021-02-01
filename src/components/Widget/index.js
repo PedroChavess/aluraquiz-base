@@ -1,6 +1,8 @@
+import { nominalTypeHack } from 'prop-types';
 import styled from 'styled-components';
 
 const Widget = styled.div`
+
 margin-top: 24px;
 margin-bottom: 24px;
 border: 1px solid ${({ theme }) => theme.colors.secondary};
@@ -8,18 +10,19 @@ background-color: ${({ theme }) => theme.colors.mainBg};
 border-radius: 4px;
 overflow: hidden;
 
-h1, h2, h3 {
+  h1, h2, h3 {
       font-size: 16px;
       font-weight: 700;
       line-height: 1;
       margin-bottom:0;
     }
-    p{
+  p{
       font-size: 14px;
       font-weight: 400;
       line-height:1;
     }
 `;
+
 
 Widget.Header = styled.header`
 display: flex;
@@ -51,8 +54,8 @@ Widget.Topic = styled.a`
   outline:0;
   text-decoration: none;
   color: ${({ theme }) => theme.colors.contrastText};
-  background-color: ${({ theme }) => `${theme.colors.primary}`};
-  padding: 10 15px;
+  background-color: ${({ theme }) => `${theme.colors.primary}40`};
+  padding: 20px 15px;
   margin-bottom: 8px;
   cursor: pointer;
   border-radius: ${({ theme }) => theme.borderRadius};
@@ -61,7 +64,7 @@ Widget.Topic = styled.a`
 
   &:hover,
   &:focus {
-    opacity: .1;
+    opacity: .7;
   } 
   
 `;
